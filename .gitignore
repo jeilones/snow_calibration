@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#mapping
+/src/[0-9]/*
+/src/*[0-9]
+/src/*[0-9].map
